@@ -23,7 +23,7 @@ Y = np.array(Y)
 plt.scatter(X, Y)
 plt.show()
 
-# 最小二分法直接求解
+# 最小二乘法直接求解
 denominator = X.dot(X) - X.mean() * X.sum()
 w = ( X.dot(Y) - Y.mean()*X.sum() ) / denominator
 b = ( Y.mean() * X.dot(X) - X.mean() * X.dot(Y) ) / denominator
