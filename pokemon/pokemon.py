@@ -30,6 +30,8 @@ b = ( Y.mean() * X.dot(X) - X.mean() * X.dot(Y) ) / denominator
 
 Yhat = w * X + b
 
+print("w: ", w, ",b", b)
+
 plt.scatter(X, Y)
 plt.plot(X, Yhat)
 plt.show()
