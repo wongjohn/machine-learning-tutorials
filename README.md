@@ -14,21 +14,21 @@
 
 有下边这样非常大的音频数据集，写程序来进行学习，然后可以输出音频“Hello”
 
-![音频识别](/images/ml/introduction/2.png)
+![音频识别](/assets/introduction/2.png)
 
 有下边这样非常大的图片数据集，写程序来进行学习，然后可以识别左边这样图，识别为正确的物种。
 
-![图片识别](/images/ml/introduction/1.png)
+![图片识别](/assets/introduction/1.png)
 
 ## 机器学习 约等于 寻找一个函数
 
-![图片识别](/images/ml/introduction/3.png)
+![图片识别](/assets/introduction/3.png)
 
 ## Framework 框架
 
 ### Image Recognition 图像识别
 
-![图片识别](/images/ml/introduction/4.png)
+![图片识别](/assets/introduction/4.png)
 
 ## 我们为什么要学习“机器学习”？
 
